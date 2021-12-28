@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Francisco",
+      "empresa": "Astarte Informatica",
+      "email": "Masterdelaf1985@gmail.com",
+      "telefono": "952601849",
+      "notas": "Esto es una prueba",
+      "id": 1
+    },
+    {
+      "nombre": "Paquito",
+      "empresa": "Astarte construcciones",
+      "email": "jumarberus@gmail.com",
+      "telefono": "695194026",
+      "notas": "Paquito es muy buen cliente",
+      "id": 3
+    },
+    {
+      "nombre": "Francisco",
+      "empresa": "Astarte Informatica",
+      "email": "Masterdelaf1985@gmail.com",
+      "telefono": "952601849",
+      "notas": "gffsdag adfadfaf",
+      "id": 4
+    }
+  ]
+}
